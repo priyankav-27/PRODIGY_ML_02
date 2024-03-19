@@ -1,5 +1,6 @@
 # PRODIGY_ML_02
-# K-means Clustering
+Prodigy Machine Learning Internship Task 02
+## Overview
 
 This repository contains Python code for performing K-means clustering on customer data. K-means clustering is an unsupervised machine learning algorithm used for partitioning data into a predefined number of clusters based on similarity.
 
