@@ -19,7 +19,7 @@ You can install them using pip:
 ### Usage
 
 1. Clone the repository to your local machine:
-   git clone
+   git clone ```bash 
 
 
 
